@@ -9,7 +9,18 @@
 - [GUI Deploy](http://lab16-env.eba-kptyw4jz.us-east-2.elasticbeanstalk.com/)
 - [CLI Deploy](http://cloud-server.eba-mrvaijyk.us-west-2.elasticbeanstalk.com/)
 
-### Setup
+### GUI Processes
+
+Zip files
+click button to create
+errors pop up if you have them
+link shows up
+
+### Terminal Process
+
+install EB CLI
+troubleshoot if necessary
+set paths to python and eb
 
 #### `.env` requirements (where applicable)
 

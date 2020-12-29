@@ -1,14 +1,13 @@
-# LAB - Class 01
+# LAB - Class 16
 
-## Project: Serer Deployment Practice
+## Project: AWS: Cloud Servers
 
 ### Author: Ricardo Barcenas
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/401-advanced-javascript-ricardo-b/server-deployment-practice/actions) (GitHub Actions)
-- [Heroku Dev Deployment](https://ricardob-server-deploy-dev.herokuapp.com/)
-- [Heroku Production Deployment](https://ricardob-server-deploy-prod.herokuapp.com/)
+- [GUI Deploy](http://lab16-env.eba-kptyw4jz.us-east-2.elasticbeanstalk.com/)
+- [CLI Deploy](http://cloud-server.eba-mrvaijyk.us-west-2.elasticbeanstalk.com/)
 
 ### Setup
 
